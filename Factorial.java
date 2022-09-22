@@ -12,6 +12,7 @@ public class Factorial {
 			mult=mult*i;
 		}
 		System.out.println("Factorial is "+mult);
+		// chnages by vaishnavi....
 	}
 
 }
